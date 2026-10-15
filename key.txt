@@ -1,0 +1,1 @@
+KPAH_NGHIEN_HVT=TRUE,Hệ thống hoạt động bình thường. Chúc bạn chơi game vui vẻ!
