@@ -1,0 +1,14 @@
+# ====================================================================
+# KPAH REMOTE SECURITY & VIP KEY CONFIG (tele @ThanhNamYE)
+# Repo: https://raw.githubusercontent.com/namtr0002/kpah-auth-live/main/key.txt
+# ====================================================================
+KPAH_NGHIEN_V3=TRUE,Phiên bản KPAH này đã ngừng hoạt động hoặc bị khóa từ xa! Liên hệ tele @ThanhNamYE
+STRICT_GITHUB_ONLY=FALSE
+VIP_KEYS=KPAH-MASTER-THANHNAM-2026-B2D0308E,KPAH-SVIP-PRO8888-9999-C86E4844,KPAH-VIP-KPAH2026-VIP1-A56490B1,KPAH-30D-TRIAL30-2026-7A2ECDA4
+REVOKED=
+
+# Chi tiet danh sach Key VIP (KEY=MA_KEY|THOI_HAN_EPOCH_MS|GHI_CHU)
+KEY=KPAH-MASTER-THANHNAM-2026-B2D0308E|0|Key Master Admin Vĩnh Viễn
+KEY=KPAH-SVIP-PRO8888-9999-C86E4844|0|Key SVIP Vĩnh Viễn 1
+KEY=KPAH-VIP-KPAH2026-VIP1-A56490B1|0|Key VIP Vĩnh Viễn 2
+KEY=KPAH-30D-TRIAL30-2026-7A2ECDA4|1794937120537|Key VIP 30 Ngày
