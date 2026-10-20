@@ -2,7 +2,8 @@
 # KPAH REMOTE SECURITY & VIP KEY CONFIG (tele @ThanhNamYE)
 # Repo: https://raw.githubusercontent.com/namtr0002/kpah-auth-live/main/key.txt
 # ====================================================================
-KPAH_NGHIEN_V4=TRUE,Phiên bản KPAH này đã ngừng hoạt động hoặc bị khóa từ xa! Liên hệ tele @ThanhNamYE
+KPAH_NGHIEN_V5=TRUE,Phiên bản KPAH này đã ngừng hoạt động hoặc bị khóa từ xa! Liên hệ tele @ThanhNamYE
+KPAH_NGHIEN_V4=FALSE,Phiên bản KPAH cũ đã bị khóa! Vui lòng tải bản mới nhất (Liên hệ tele @ThanhNamYE)
 KPAH_NGHIEN_V3=FALSE,Phiên bản KPAH cũ đã bị khóa! Vui lòng tải bản mới nhất (Liên hệ tele @ThanhNamYE)
 KPAH_NGHIEN_V2=FALSE,Phiên bản KPAH cũ đã bị khóa! Vui lòng tải bản mới nhất (Liên hệ tele @ThanhNamYE)
 KPAH_NGHIEN_V1=FALSE,Phiên bản KPAH cũ đã bị khóa! Vui lòng tải bản mới nhất (Liên hệ tele @ThanhNamYE)
